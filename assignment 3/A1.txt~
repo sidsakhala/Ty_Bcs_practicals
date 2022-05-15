@@ -1,0 +1,4 @@
+create table Project (p_id int ,p_name varchar(30), p_description varchar(30),p_status int);
+
+
+insert into Project values('1','Ticket Booking','To book tickets','0'),('2','Pharmacy Management','To manage the pharmacy','1'),('3','Hotel Management','To manage hotel','1');
