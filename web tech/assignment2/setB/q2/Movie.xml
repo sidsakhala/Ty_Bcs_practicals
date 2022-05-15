@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MovieInfo>
+	<Movie>
+	<MovieNo>1</MovieNo>
+	<MovieTitle>Ghoul</MovieTitle>
+	<ActorName>Radhika</ActorName>
+	<ReleaseYear>2018</ReleaseYear>
+	</Movie>
+	<Movie>
+	<MovieNo>2</MovieNo>
+	<MovieTitle>Sultam</MovieTitle>
+	<ActorName>Selmon boi</ActorName>
+	<ReleaseYear>2016</ReleaseYear>
+	</Movie>
+	<Movie>
+	<MovieNo>3</MovieNo>
+	<MovieTitle>Zero</MovieTitle>
+	<ActorName>Shahrukh</ActorName>
+	<ReleaseYear>2014</ReleaseYear>
+	</Movie>
+	<Movie>
+	<MovieNo>4</MovieNo>
+	<MovieTitle>Dangal</MovieTitle>
+	<ActorName>Amir</ActorName>
+	<ReleaseYear>2020</ReleaseYear>
+	</Movie>
+	<Movie>
+	<MovieNo>5</MovieNo>
+	<MovieTitle>KGF</MovieTitle>
+	<ActorName>Yash</ActorName>
+	<ReleaseYear>2019</ReleaseYear>
+	</Movie>
+
+
+</MovieInfo>

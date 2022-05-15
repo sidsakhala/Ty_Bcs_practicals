@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="setA2.css"?>
+<ItemInfo><Item><ItemName>Cookies</ItemName><ItemPrice>500</ItemPrice><Quantity>25</Quantity></Item><Item><ItemName>Cakes</ItemName><ItemPrice>300</ItemPrice><Quantity>20</Quantity></Item><Item><ItemName>Puff</ItemName><ItemPrice>100</ItemPrice><Quantity>30</Quantity></Item><Item><ItemName>Donut</ItemName><ItemPrice>250</ItemPrice><Quantity>20</Quantity></Item><Item><ItemName>Rolls</ItemName><ItemPrice>200</ItemPrice><Quantity>250</Quantity></Item></ItemInfo>
