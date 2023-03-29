@@ -1,0 +1,19 @@
+<app-component1></app-component1>
+<app-component2></app-component2>
+
+
+
+
+
+<p>structural directive example </p>
+<ul *ngFor="let cname of courseNames; index as f ">
+    <li>{{f}} {{cname}}</li>
+</ul>
+
+<label for="cars">Choose a subject:</label>
+
+<select name="subject" id="subject">
+  <option  *ngFor="let cname of courseNames; index as f " value="{{cname}}">{{f}} {{cname}}</option>
+</select>
+
+<!-- <app-child #child [factFromParent]="sendFactToChild"> -->
